@@ -1,0 +1,511 @@
+<Results>
+    <GeneralInfo>
+        <Name/>
+        <RunStartTime>2019-07-03 11:04:12</RunStartTime>
+        <Timezone>GMT Standard Time</Timezone>
+        <OrchestrationToolName>JUnit</OrchestrationToolName>
+        <OrchestrationToolVersion/>
+        <ReportTitle>LeanFT Report</ReportTitle>
+    </GeneralInfo>
+    <ReportNode type="Run">
+        <Data>
+            <Name>Run Results</Name>
+            <Description><![CDATA[ ]]></Description>
+            <StartTime>2019-07-03 11:04:12</StartTime>
+            <Result>Passed</Result>
+            <Links/>
+            <Duration><![CDATA[00:00:10.718]]></Duration>
+            <Extension>
+                <Any>
+                    <IconKey>Run</IconKey>
+                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                </Any>
+            </Extension>
+            <Environment>
+                <OSInfo><![CDATA[Microsoft Windows NT 6.2.9200.0]]></OSInfo>
+                <HostName>WIN81FUJITSU</HostName>
+                <NumberOfCores>2</NumberOfCores>
+                <CpuInfo/>
+                <TotalMemory>8191</TotalMemory>
+                <Locale><![CDATA[en-GB]]></Locale>
+                <Timezone>GMT Standard Time</Timezone>
+                <User>edgewords</User>
+            </Environment>
+            <TestedApplication/>
+            <ToolName>LeanFT</ToolName>
+            <ToolVersion><![CDATA[14.51]]></ToolVersion>
+        </Data>
+        <ReportNode type="Package">
+            <Data>
+                <Name><![CDATA[com.edgewords]]></Name>
+                <Description><![CDATA[Version: N/A]]></Description>
+                <StartTime>2019-07-03 11:04:13</StartTime>
+                <Result>Passed</Result>
+                <Links/>
+                <Duration><![CDATA[00:00:10.234]]></Duration>
+                <Extension>
+                    <Any>
+                        <IconKey>Package</IconKey>
+                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                    </Any>
+                </Extension>
+            </Data>
+            <ReportNode type="Class">
+                <Data>
+                    <Name><![CDATA[com.edgewords.LeanFtTest]]></Name>
+                    <Description/>
+                    <StartTime>2019-07-03 11:04:13</StartTime>
+                    <Result>Passed</Result>
+                    <Links/>
+                    <Duration><![CDATA[00:00:10.234]]></Duration>
+                    <Extension>
+                        <Any>
+                            <IconKey>Class</IconKey>
+                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                        </Any>
+                    </Extension>
+                </Data>
+                <ReportNode type="Feature">
+                    <Data>
+                        <Name><![CDATA[<b>Feature: </b>Edgewords Shop Search]]></Name>
+                        <Description/>
+                        <StartTime>2019-07-03 11:04:13</StartTime>
+                        <Result>Passed</Result>
+                        <Links/>
+                        <Duration><![CDATA[00:00:10.234]]></Duration>
+                        <Extension>
+                            <Any>
+                                <IconKey>Feature</IconKey>
+                                <IsHtmlErrorText>true</IsHtmlErrorText>
+                            </Any>
+                        </Extension>
+                    </Data>
+                    <ReportNode type="Step">
+                        <Data>
+                            <Name><![CDATA[Browser.launch]]></Name>
+                            <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>FIREFOX</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Mozilla Firefox</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>60.0</td></tr><tr><td class='ex-name'>max concurrent tests</td><td class='ex-value'>9.007199254740991E15</td></tr><tr><td class='ex-name'>osVersion</td><td class='ex-value'>10</td></tr><tr><td class='ex-name'>osType</td><td class='ex-value'>Windows</td></tr><tr><td class='ex-name'>name</td><td class='ex-value'>Win81Fujitsu</td></tr><tr><td class='ex-name'>id</td><td class='ex-value'>Win81Fujitsu</td></tr></table>]]></Description>
+                            <StartTime>2019-07-03 11:04:13</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration><![CDATA[00:00:00.000]]></Duration>
+                            <Extension>
+                                <Any>
+                                    <TestObject>
+                                        <Path/>
+                                        <Operation>launch</Operation>
+                                        <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>FIREFOX</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Mozilla Firefox</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>60.0</td></tr><tr><td class='ex-name'>max concurrent tests</td><td class='ex-value'>9.007199254740991E15</td></tr><tr><td class='ex-name'>osVersion</td><td class='ex-value'>10</td></tr><tr><td class='ex-name'>osType</td><td class='ex-value'>Windows</td></tr><tr><td class='ex-name'>name</td><td class='ex-value'>Win81Fujitsu</td></tr><tr><td class='ex-name'>id</td><td class='ex-value'>Win81Fujitsu</td></tr></table>]]></OperationData>
+                                        <Properties/>
+                                    </TestObject>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>Browser</IconKey>
+                                    <CustomUIElements>
+                                        <DescriptionLabel>Data</DescriptionLabel>
+                                        <FlowTreeNodeCaption><![CDATA[Browser.<span class='emphasis'>launch("Firefox")</span>]]></FlowTreeNodeCaption>
+                                        <FlowTreeNodeTooltip><![CDATA[Browser.launch("Firefox")]]></FlowTreeNodeTooltip>
+                                    </CustomUIElements>
+                                    <HideContextInfo>true</HideContextInfo>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Scenario">
+                        <Data>
+                            <Name><![CDATA[<b>Scenario: </b>Search for cap]]></Name>
+                            <Description/>
+                            <StartTime>2019-07-03 11:04:15</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration><![CDATA[00:00:08.312]]></Duration>
+                            <Extension>
+                                <Any>
+                                    <IconKey>Scenario</IconKey>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                </Any>
+                            </Extension>
+                        </Data>
+                        <ReportNode type="CucumberStep">
+                            <Data>
+                                <Name><![CDATA[<b>Given </b>I am on the Edgewords Shop Demo homepage]]></Name>
+                                <Description/>
+                                <StartTime>2019-07-03 11:04:15</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration><![CDATA[00:00:01.671]]></Duration>
+                                <Extension>
+                                    <Any>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[Automated Tools Test Site.navigate]]></Name>
+                                    <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>http://www.edgewordstraining.co.uk/demo-site/</td></tr></table>]]></Description>
+                                    <StartTime>2019-07-03 11:04:16</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.077]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Automated Tools Test Site]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>navigate</Operation>
+                                                <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>http://www.edgewordstraining.co.uk/demo-site/</td></tr></table>]]></OperationData>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[type]]></Name>
+                                                        <Value><![CDATA[Mozilla Firefox]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[version]]></Name>
+                                                        <Value><![CDATA[60.0]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[max concurrent tests]]></Name>
+                                                        <Value><![CDATA[9.007199254740991E15]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[osVersion]]></Name>
+                                                        <Value><![CDATA[10]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[osType]]></Name>
+                                                        <Value><![CDATA[Windows]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[name]]></Name>
+                                                        <Value><![CDATA[Win81Fujitsu]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[id]]></Name>
+                                                        <Value><![CDATA[Win81Fujitsu]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>Browser</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Automated Tools Test Site]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                        </ReportNode>
+                        <ReportNode type="CucumberStep">
+                            <Data>
+                                <Name><![CDATA[<b>When </b>I search for "cap"]]></Name>
+                                <Description/>
+                                <StartTime>2019-07-03 11:04:16</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration><![CDATA[00:00:03.501]]></Duration>
+                                <Extension>
+                                    <Any>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[s.setValue]]></Name>
+                                    <Description><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>cap</td></tr></table>]]></Description>
+                                    <StartTime>2019-07-03 11:04:16</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:03.336]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Edgewords Shop – e-commerce demo site for Training]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Edgewords Shop – e-commerce demo site for Training]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.EditField</Type>
+                                                        <Name><![CDATA[s]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>setValue</Operation>
+                                                <OperationData><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>cap</td></tr></table>]]></OperationData>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[placeholder]]></Name>
+                                                        <Value><![CDATA[Search products…]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[type]]></Name>
+                                                        <Value><![CDATA[search]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[accessibilityName]]></Name>
+                                                        <Value/>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[name]]></Name>
+                                                        <Value><![CDATA[s]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[tagName]]></Name>
+                                                        <Value><![CDATA[INPUT]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[index]]></Name>
+                                                        <Value><![CDATA[0]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>EditField</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Edgewords Shop – e-commerce demo site for Training]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Edgewords Shop – e-commerce demo site for Training]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.EditField</Type>
+                                                            <Name><![CDATA[s]]></Name>
+                                                            <IconKey>EditField</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                            <ReportNode type="Step">
+                                <Data>
+                                    <Name><![CDATA[Search.click]]></Name>
+                                    <Description/>
+                                    <StartTime>2019-07-03 11:04:20</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Duration><![CDATA[00:00:00.125]]></Duration>
+                                    <Extension>
+                                        <Any>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Edgewords Shop – e-commerce demo site for Training]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Page</Type>
+                                                        <Name><![CDATA[Edgewords Shop – e-commerce demo site for Training]]></Name>
+                                                    </Object>
+                                                    <Object>
+                                                        <Type>Web.Button</Type>
+                                                        <Name><![CDATA[Search]]></Name>
+                                                    </Object>
+                                                </Path>
+                                                <Operation>click</Operation>
+                                                <OperationData/>
+                                                <Properties>
+                                                    <Property>
+                                                        <Name><![CDATA[buttonType]]></Name>
+                                                        <Value><![CDATA[submit]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[role]]></Name>
+                                                        <Value/>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[accessibilityName]]></Name>
+                                                        <Value/>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[name]]></Name>
+                                                        <Value><![CDATA[Search]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[tagName]]></Name>
+                                                        <Value><![CDATA[BUTTON]]></Value>
+                                                    </Property>
+                                                    <Property>
+                                                        <Name><![CDATA[index]]></Name>
+                                                        <Value><![CDATA[0]]></Value>
+                                                    </Property>
+                                                </Properties>
+                                            </TestObject>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>Button</IconKey>
+                                            <CustomUIElements>
+                                                <DescriptionLabel>Data</DescriptionLabel>
+                                            </CustomUIElements>
+                                            <Descriptive>
+                                                <TestObject>
+                                                    <Path>
+                                                        <Object>
+                                                            <Type>Web.Browser</Type>
+                                                            <Name><![CDATA[Edgewords Shop – e-commerce demo site for Training]]></Name>
+                                                            <IconKey>Browser</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Page</Type>
+                                                            <Name><![CDATA[Edgewords Shop – e-commerce demo site for Training]]></Name>
+                                                            <IconKey>Page</IconKey>
+                                                        </Object>
+                                                        <Object>
+                                                            <Type>Web.Button</Type>
+                                                            <Name><![CDATA[Search]]></Name>
+                                                            <IconKey>Button</IconKey>
+                                                        </Object>
+                                                    </Path>
+                                                </TestObject>
+                                            </Descriptive>
+                                            <HideContextInfo>true</HideContextInfo>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                        </ReportNode>
+                        <ReportNode type="CucumberStep">
+                            <Data>
+                                <Name><![CDATA[<b>Then </b>a "cap" shown shown in the results]]></Name>
+                                <Description/>
+                                <StartTime>2019-07-03 11:04:20</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration><![CDATA[00:00:03.031]]></Duration>
+                                <Extension>
+                                    <Any>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                            <ReportNode type="Verification">
+                                <Data>
+                                    <Name>Verification</Name>
+                                    <Description><![CDATA[Verify property: innerText]]></Description>
+                                    <StartTime>2019-07-03 11:04:23</StartTime>
+                                    <Result>Passed</Result>
+                                    <Links/>
+                                    <Extension>
+                                        <Any>
+                                            <Verification>
+                                                <Operation>areEqual</Operation>
+                                                <Data><![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-name'>arg1</td></tr><tr><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><tr><td class='ex-value'><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'>Cap</table></font></td><td class='ex-value'><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'>Cap</table></font></td></tr></tr></table>]]></Data>
+                                            </Verification>
+                                            <IsHtmlErrorText>true</IsHtmlErrorText>
+                                            <IconKey>VerifySuccess</IconKey>
+                                            <CustomUIElements>
+                                                <ErrorListItemStatusIndicatorIconKey>VerifySuccess</ErrorListItemStatusIndicatorIconKey>
+                                                <HideFlowTreeNodeStatusIndicator>true</HideFlowTreeNodeStatusIndicator>
+                                            </CustomUIElements>
+                                        </Any>
+                                    </Extension>
+                                </Data>
+                            </ReportNode>
+                        </ReportNode>
+                        <ReportNode type="Step">
+                            <Data>
+                                <Name><![CDATA[Cap – Edgewords Shop.closeAllTabs]]></Name>
+                                <Description/>
+                                <StartTime>2019-07-03 11:04:23</StartTime>
+                                <Result>Passed</Result>
+                                <Links/>
+                                <Duration><![CDATA[00:00:00.109]]></Duration>
+                                <Extension>
+                                    <Any>
+                                        <TestObject>
+                                            <Path>
+                                                <Object>
+                                                    <Type>Web.Browser</Type>
+                                                    <Name><![CDATA[Cap – Edgewords Shop]]></Name>
+                                                </Object>
+                                            </Path>
+                                            <Operation>closeAllTabs</Operation>
+                                            <OperationData/>
+                                            <Properties>
+                                                <Property>
+                                                    <Name><![CDATA[type]]></Name>
+                                                    <Value><![CDATA[Mozilla Firefox]]></Value>
+                                                </Property>
+                                                <Property>
+                                                    <Name><![CDATA[version]]></Name>
+                                                    <Value><![CDATA[60.0]]></Value>
+                                                </Property>
+                                                <Property>
+                                                    <Name><![CDATA[max concurrent tests]]></Name>
+                                                    <Value><![CDATA[9.007199254740991E15]]></Value>
+                                                </Property>
+                                                <Property>
+                                                    <Name><![CDATA[osVersion]]></Name>
+                                                    <Value><![CDATA[10]]></Value>
+                                                </Property>
+                                                <Property>
+                                                    <Name><![CDATA[osType]]></Name>
+                                                    <Value><![CDATA[Windows]]></Value>
+                                                </Property>
+                                                <Property>
+                                                    <Name><![CDATA[name]]></Name>
+                                                    <Value><![CDATA[Win81Fujitsu]]></Value>
+                                                </Property>
+                                                <Property>
+                                                    <Name><![CDATA[id]]></Name>
+                                                    <Value><![CDATA[Win81Fujitsu]]></Value>
+                                                </Property>
+                                            </Properties>
+                                        </TestObject>
+                                        <IsHtmlErrorText>true</IsHtmlErrorText>
+                                        <IconKey>Browser</IconKey>
+                                        <CustomUIElements>
+                                            <DescriptionLabel>Data</DescriptionLabel>
+                                        </CustomUIElements>
+                                        <Descriptive>
+                                            <TestObject>
+                                                <Path>
+                                                    <Object>
+                                                        <Type>Web.Browser</Type>
+                                                        <Name><![CDATA[Cap – Edgewords Shop]]></Name>
+                                                        <IconKey>Browser</IconKey>
+                                                    </Object>
+                                                </Path>
+                                            </TestObject>
+                                        </Descriptive>
+                                        <HideContextInfo>true</HideContextInfo>
+                                    </Any>
+                                </Extension>
+                            </Data>
+                        </ReportNode>
+                    </ReportNode>
+                </ReportNode>
+            </ReportNode>
+        </ReportNode>
+    </ReportNode>
+</Results>
